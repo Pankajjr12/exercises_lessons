@@ -1,0 +1,13 @@
+// Write a JavaScript function:
+// function filterOrders(orders, search, status, category) {
+//   // Your implementation
+// }
+// Requirements:
+// 1. Search by customer name or email.
+// 2. Filter by order status.
+// 3. Filter by category.
+// 4. Search should be case-insensitive.
+// 5. If search is empty, show all matching records.
+// 6. If status is "All", don't apply status filtering.
+// 7. If category is "All", don't apply category filtering.
+// 8. Do not modify the original array.

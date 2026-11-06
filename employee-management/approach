@@ -1,0 +1,9 @@
+Requirement	Implementation
+Load employees from JSON	             useEffect()
+Display employee table	                 HTML table
+Search employee	Search                   input
+Filter department	                     Dropdown
+Sort salary	                             Button
+Add employee	                         Form
+Delete employee	                         Delete button
+Total employee count	                 employees.length

@@ -1,0 +1,10 @@
+Dashboard	                Display sales dashboard
+Total revenue	            Calculate completed sales revenue
+Total orders	            Count all transactions
+Search	                    Search by customer name
+Filter	                    Filter by category
+Status	                    Completed, Pending, Cancelled
+Sorting	                    Sort by amount ascending/descending
+Date filter	                Filter by transaction date
+Summary	Show                completed/pending order counts
+Empty state	                Display when no results exist

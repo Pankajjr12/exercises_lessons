@@ -1,0 +1,11 @@
+#	Feature	Expected functionality
+1	Display tasks	               Show all tasks
+2	Add task	                   Create a new task
+3	Edit task	                   Update task details
+4	Delete task	                   Delete with confirmation
+5	Search	                       Search by task title
+6	Filter	                       Filter by priority
+7	Status	                       Todo, In Progress, Completed
+8	Sorting	                       Sort by due date
+9	Dashboard	                   Count tasks by status
+10	Validation	                   Require title and due date

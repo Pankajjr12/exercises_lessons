@@ -1,0 +1,7 @@
+Display products in a responsive grid.
+Search products by name.
+Filter by category.
+Sort by price (low to high / high to low).
+Display only in-stock products when selected.
+Display total product count.
+Show "No products found" when there are no results
