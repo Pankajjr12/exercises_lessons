@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "category": "IT",
+      "salary": 50000
+    },
+    {
+      "id": 2,
+      "name": "David",
+      "category": "HR",
+      "salary": 40000
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "category": "IT",
+      "salary": 50000
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "category": "Finance",
+      "salary": 60000
+    },
+    {
+      "id": 5,
+      "name": "Alex",
+      "category": "HR",
+      "salary": 45000
+    },
+    {
+      "id": 6,
+      "name": "Peter",
+      "category": "IT",
+      "salary": 70000
+    }
+  ]
